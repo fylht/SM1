@@ -1,7 +1,7 @@
 #define CATCH_CONFIG_MAIN
-#include "catch.hpp"
-#include "insertion_sort.h"
-#include "fn.h"
+#include "../sorting/include/insertion_sort.h"
+#include "./lib/catch.hpp"
+#include "./lib/fn.h"
 #include <vector>
 
 

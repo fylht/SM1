@@ -1,4 +1,4 @@
-#include "exchange_sort.h"
+#include "../include/exchange_sort.h"
 
 template <typename T>
 void exchangeSort(T* arr, size_t size) {

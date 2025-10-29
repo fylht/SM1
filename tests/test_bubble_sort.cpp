@@ -1,7 +1,5 @@
-
-
 #include "../sorting/include/bubble_sort.h"
-#include "./lib/catch.cpp"
+#include "./lib/catch.hpp"
 #include "./lib/fn.h"
 #include <vector>
 

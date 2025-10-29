@@ -1,7 +1,6 @@
-
-#include "catch.hpp"
-#include "exchange_sort.h"
-#include "fn.h"
+#include "../sorting/include/exchange_sort.h"
+#include "./lib/catch.hpp"
+#include "./lib/fn.h"
 #include <vector>
 
 TEST_CASE("Normal array - exchange sort", "[exchangeSort]") {

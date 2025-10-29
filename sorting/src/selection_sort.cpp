@@ -1,4 +1,4 @@
-#include "selection_sort.h"
+#include "../include/selection_sort.h"
 
 template <typename T>
 void selectionSort(T* arr, size_t size) {

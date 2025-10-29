@@ -1,4 +1,4 @@
-#include "optimized_bubble_sort.h"
+#include "../include/optimized_bubble_sort.h"
 
 template <typename T>
 void optimizedBubbleSort(T* arr, size_t size) {

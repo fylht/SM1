@@ -1,4 +1,4 @@
-#include "insertion_sort.h"
+#include "../include/insertion_sort.h"
 
 template <typename T>
 void insertionSort(T* arr, size_t size) {
